@@ -1,3 +1,7 @@
 # rv1
 
-# Contributor: Dominik Glavas
+
+# Contributor
+Dominik Glavas, mail
+Luka Bibić, luka.krnjevo@gmail.com
+
